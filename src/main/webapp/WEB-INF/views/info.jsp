@@ -15,9 +15,7 @@
 </sec:authorize>
 <sec:authorize access="hasAnyRole('ROLE_ADMIN')">
 	권한있음! 
-	
-	<a href="/oauth/logout">로그아웃2</a>
-	
+	<a href="/oauth/logout">로그아웃</a>
 </sec:authorize>
 
 </body>
