@@ -14,6 +14,3 @@ security:
       userAuthorizationUri: http://localhost:8080/oauth/authorize
     resource:
       userInfoUri: http://localhost:8080/user/me
-spring:
-  thymeleaf:
-    cache: false        
